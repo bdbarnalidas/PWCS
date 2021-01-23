@@ -2,6 +2,13 @@
 
 High-performance whole-cell simulation exploiting modular cell biology principles
 
+We provide CUDA C/C++ simulation code for performing parallel whole-cell simulation exploiting the existing HPC architecture. This includes an efficient simulation guided by our hashing based data structure called the Cellular Dictionary. Important features of this simulation tool are summarized below.
+
+    Spatially localized densely connected protein clusters/modules directed simulation.
+    Can properly handle boundary conditions.
+    Can detect and resolve collision scenarios.
+
+
 Please download and unzip 'Executable.zip'.
 
 The extracted folder 'Executable' consists of 2 linux executable files 'Serial_Simulator' and 'Parallel_Simulator'.  
