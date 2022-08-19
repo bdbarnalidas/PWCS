@@ -32,6 +32,8 @@ Use the command './Parallel_Simulator' for executing the parallel simulation.
 For any doubts or suggestions please contact
 barnali.das@iitkgp.ac.in
 
+Please visit https://cosmos.iitkgp.ac.in/PWCS/
+
 
 
 
